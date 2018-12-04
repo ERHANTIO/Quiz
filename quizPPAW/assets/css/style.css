@@ -1,0 +1,30 @@
+.container{
+	border:1px solid #999999;
+	border-radius:5px;	
+	width:350px;
+	background:#ffffff;
+}
+.container .ukuran{
+	padding:20px;
+}
+.number{
+	width:300px;
+	margin-bottom:5px;
+}
+.hasil{
+	width:140px;
+	margin-left:9px;
+}
+.clear{
+	width:140px;
+	margin-right:9px;
+}
+.button1{
+	margin-bottom:5px;
+}
+.button2{
+	margin-bottom:10px;
+}
+.b{
+	width:55px;
+}
